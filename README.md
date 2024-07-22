@@ -85,7 +85,7 @@ isnull() is widely been in all pre-processing steps to identify null values in t
 In our example, data.isnull().sum() is used to get the number of missing records in each column
 Exploring Relationships
 
-Now, we will analyze the correlations between variables focusing on order behavior, product details, and customer interactions. for that  we will merge the tables.
+Now, we will analyze the correlations between variables focusing on order behavior, product details, and customer interactions. for that  we will merge the tables and find the co-relations between all the elements and do our findings for business prospective to help the stakeholders of the company to understand the data more.
 
 
 
