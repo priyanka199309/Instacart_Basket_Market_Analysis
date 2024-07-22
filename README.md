@@ -1,6 +1,7 @@
 # Instacart_Basket_Market_Analysis
 
 Deploying a detailed EDA.
+
 what is Exploratory Data Analysis?
 It refers to the critical process of performing initial investigation on data to discover patters, to spot anomalies, to test hypothesis and to check assumptions with the help of summary statistics and graphical representation.
 Example: Imagine a group of friends decides to watch a movie they haven’t heard of. There is absolutely no debate about that, it will lead to a state where they find themselves puzzled with lot of questions which needs to be answered to decide. Being a good chieftain the first question they would ask each other, what is the cast and crew of the movie? As a regular practice, they would also watch the trailer of the movie on YouTube. Furthermore, they would find out ratings and reviews the movie has received from the audience.
